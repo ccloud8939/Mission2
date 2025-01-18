@@ -1,4 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+// Name: Chloe CLoud
+// Section: 001
+// Description: This program allows the user to role 2 die however many times they indicate 
+// and then see the percetage of times they rolled any number of combinations
 using Mission2;
 
 public class DiceGame
