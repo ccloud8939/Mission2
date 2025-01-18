@@ -1,0 +1,14 @@
+/Users/chloecloud/RiderProjects/Mission2/Mission2/bin/Debug/net8.0/Mission2
+/Users/chloecloud/RiderProjects/Mission2/Mission2/bin/Debug/net8.0/Mission2.deps.json
+/Users/chloecloud/RiderProjects/Mission2/Mission2/bin/Debug/net8.0/Mission2.runtimeconfig.json
+/Users/chloecloud/RiderProjects/Mission2/Mission2/bin/Debug/net8.0/Mission2.dll
+/Users/chloecloud/RiderProjects/Mission2/Mission2/bin/Debug/net8.0/Mission2.pdb
+/Users/chloecloud/RiderProjects/Mission2/Mission2/obj/Debug/net8.0/Mission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chloecloud/RiderProjects/Mission2/Mission2/obj/Debug/net8.0/Mission2.AssemblyInfoInputs.cache
+/Users/chloecloud/RiderProjects/Mission2/Mission2/obj/Debug/net8.0/Mission2.AssemblyInfo.cs
+/Users/chloecloud/RiderProjects/Mission2/Mission2/obj/Debug/net8.0/Mission2.csproj.CoreCompileInputs.cache
+/Users/chloecloud/RiderProjects/Mission2/Mission2/obj/Debug/net8.0/Mission2.dll
+/Users/chloecloud/RiderProjects/Mission2/Mission2/obj/Debug/net8.0/refint/Mission2.dll
+/Users/chloecloud/RiderProjects/Mission2/Mission2/obj/Debug/net8.0/Mission2.pdb
+/Users/chloecloud/RiderProjects/Mission2/Mission2/obj/Debug/net8.0/Mission2.genruntimeconfig.cache
+/Users/chloecloud/RiderProjects/Mission2/Mission2/obj/Debug/net8.0/ref/Mission2.dll
